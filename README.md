@@ -1,5 +1,5 @@
-# A-MIPS-CPU-based-on-FPGA
-This is a 32-bit MIPS CPU in NSCSCC
+# QingShui
+QingShui is a 32-bit MIPS CPU in NSCSCC
 
 ## Directory Structure
 * `nscscc`: game test file
