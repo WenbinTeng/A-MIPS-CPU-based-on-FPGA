@@ -1,5 +1,5 @@
-# QingShui
-QingShui is a 32-bit MIPS CPU in NSCSCC
+# NSCSCC
+This is a 32-bit MIPS CPU in NSCSCC
 
 ## Directory Structure
 * `nscscc`: game test file
