@@ -1,5 +1,5 @@
 # NSCSCC
-This is a 32-bit MIPS CPU in NSCSCC
+This is a 32-bit MIPS CPU in NSCSCC 2021.
 
 ## Directory Structure
 * `nscscc`: game test file
